@@ -39,4 +39,7 @@ To deploy the project onto a live system, a webserver will be needed along with 
 
 * **Nikhil Pandey** - [nikhil-web](https://github.com/nikhil-web)
 
+## Contributors
+
+* **Himanshu Kumar Agrawal** - [Bladewalker007](https://github.com/Bladewalker007)
 
